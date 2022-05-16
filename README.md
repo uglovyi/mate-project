@@ -1,1 +1,1 @@
-# mate_project
+# mate-project
